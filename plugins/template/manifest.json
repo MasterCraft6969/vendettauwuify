@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "uwuify",
+    "description": "better uwuify command.",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "MasterCraft_48",
+            "id": "972218395955171381"
         }
     ],
     "main": "src/index.ts",
