@@ -72,5 +72,6 @@ export default {
 
     onUnload: () => {
         vendetta.commands.unregisterCommand("uwuify");
-    }
+    },
+    settings: Settings,
 };
